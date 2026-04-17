@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "htmlppt",
+  "description": "通用型 HTML 演示 skill，支持从零生成、PPT 内容抽取、PDF 导出和多宿主分发。",
+  "owner": {
+    "name": "parafallen-maker",
+    "url": "https://github.com/parafallen-maker"
+  },
+  "plugins": [
+    {
+      "name": "htmlppt",
+      "description": "单文件 HTML 幻灯片生成器，支持中文字体 fallback、PPT 内容抽取和 PDF 导出。",
+      "source": "./plugins/htmlppt",
+      "category": "productivity",
+      "tags": ["presentations", "slides", "html", "powerpoint", "pdf", "cjk"]
+    }
+  ]
+}

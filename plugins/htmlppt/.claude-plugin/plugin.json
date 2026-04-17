@@ -1,0 +1,13 @@
+{
+  "name": "htmlppt",
+  "version": "1.0.0",
+  "description": "通用型 HTML 演示 skill，支持中文字体 fallback、PPT 内容抽取和 PDF 导出。",
+  "author": {
+    "name": "parafallen-maker",
+    "url": "https://github.com/parafallen-maker"
+  },
+  "homepage": "https://github.com/parafallen-maker/htmlppt",
+  "repository": "https://github.com/parafallen-maker/htmlppt",
+  "license": "MIT",
+  "keywords": ["presentations", "slides", "html", "powerpoint", "animations", "cjk", "pdf"]
+}
